@@ -1,6 +1,4 @@
 # Software_Defect_Predictor
-Here’s a **GitHub README** file for your **Software Defect Predictor** project:  
-
 ---
 
 # **Software Defect Predictor 🚀**  
